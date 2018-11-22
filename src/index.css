@@ -34,10 +34,16 @@ code {
   color: #666666;
   text-align: left;
   margin-left:5%;
+  
 }
 
 .txt2{
   color:rgb(243, 33, 72);
   text-align: left;
   margin-left:5%;
+  
+}
+
+a{
+  text-decoration: none;
 }
